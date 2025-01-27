@@ -249,7 +249,7 @@ options:
 
 ## Authors
 
-Kamran Haq
+Koris Lucienne Haq
 
 ## Acknowledgments
 - [MTSV](https://github.com/FofanovLab/MTSv)
